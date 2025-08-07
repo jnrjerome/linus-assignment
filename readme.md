@@ -17,9 +17,10 @@ The screenshot above created a txt file called services in cli_lab folder and co
 ![Count lines in the services.txt](./screenshot/Count%20lines.jpg)
 The screenshot above shows the number of lines in servies TXT file
 6. Non Comment
-![Non Comment](./screenshot/Non%20Comment.jpg)
-The screenshot above print the Non-Comment Line
 
+![Non Comment](./screenshot/Non%20Comment.jpg)
+
+The screenshot above print the Non-Comment Line
 
 
 
