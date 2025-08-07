@@ -58,6 +58,31 @@ The screenshot shows the packages under hold
 20. Display Package Information
 ![DIP](./screenshot/Display%20Package%20Information.jpg)
 The screenshot shows the packages under hold
+21. Export Curl Dependencies
+![ECP](./screenshot/Export%20Curl%20Depedencies.jpg)
+The screenshot shows the script to export curl depenencies
+22. Difference between APT Remove and Purge
+![DRP](./screenshot/Difference%20between%20Purge%20and%20Remove.jpg)
+The screenshot shows the difference between remove and purge. Remove keeps the setting while purge deletes all related files and setting
+23. Enable Universe Repository
+![Enable Universe Repository](./screenshot/Enable%20The%20universe%20Repository.jpg)
+The screenshot shows how to enable universe repository
+24. Refresh Package
+![Refresh Package](./screenshot/Refresh%20Package.jpg)
+The screenshot shows how to refresh existing package
+25.  Install FOrtune
+![Install Fortune](./screenshot/Install%20Fortune.jpg)
+The screenshot shows how to install fortune
+26. Edit bash to Add fortune Command
+![Edit bash to add fortune command](./screenshot/Edit%20bash1.jpg)
+![shows result](./screenshot/Edit%20bash.jpg)
+The screenshot shows the command on how to add fortune command
+27. Fortune Output
+![fortune Output](./screenshot/Output%20Your%20Fortune.jpg)
+The screenshot shows the output for Fortune when WSL is restarted
+
+
+
 
 
 
