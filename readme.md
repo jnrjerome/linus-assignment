@@ -14,7 +14,7 @@ The screenshot above is to remove Epsilon from the Clilab folder
 ![Copy from ETC](./screenshot/Remove%20Epsilon.jpg)
 The screenshot above created a txt file called services in cli_lab folder and copied files from ETC to services.txt
 6. Count Lines
-![Count lines in the services.txt](./screenshot/Count%20lines.jpg)
+![Count lines in the services.txt](./screenshot/Count%20Lines1.jpg)
 The screenshot above shows the number of lines in servies TXT file
 7. Non Comment
 ![Non Comment](./screenshot/Non%20Comment.jpg)
